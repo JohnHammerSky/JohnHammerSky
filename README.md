@@ -56,7 +56,7 @@ Busca e oferece uma visualização de perfis do GitHub com algumas informações
 #### Mollama - Simple interface for Ollama ([repositório](https://github.com/JohnHammerSky/mollama))
 Aplicação de chat para conversar com LLMs locais ou na núvem do [Ollama](https://ollama.com/)
 
-#### Analise da Loterias Caixa ([repositório](https://github.com/JohnHammerSky/lottery-analysis))
+#### Análise da Loterias Caixa ([repositório](https://github.com/JohnHammerSky/lottery-analysis))
 Busca jogos da loteria e exibe em um painel para auxiliar na tomada de decisão e criação de jogos
 
 </details>
