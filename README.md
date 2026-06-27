@@ -35,7 +35,8 @@ Searches for lottery games and displays them on a dashboard to aid in decision-m
 
 Atuo como programador há cerca de 8 anos, com ênfase em tecnologias voltadas para a web. 
 
-### 🛠️ Habilidades
+🛠️ Habilidades  
+
 Essas são algumas das tecnologias com as quais já trabalhei por um bom tempo ao longo da minha trajetória.
 
 - **Backend**: PHP, TypeScript, Laravel, GraphQL, Inertia.js, Node.js, C++, Rust.
@@ -45,8 +46,8 @@ Essas são algumas das tecnologias com as quais já trabalhei por um bom tempo a
 - **Testes**: PHPUnit, Cypress, Vitest, Jest
 - **IA**: Prompts, GUFF, MCPs, fine-tuning
 - **Outros**: Web Scraping, Scripts de automação
-
-### 🚀 Projetos
+<details>
+<summary>🚀 Projetos</summary>
 Projetos que desenvolvi e posso compartilhar publicamente, nenhum deles teve geração de códigos com LLMs.
 
 #### Interface com API do GitHub ([repositório](https://github.com/JohnHammerSky/github-search-interface))
@@ -57,3 +58,6 @@ Aplicação de chat para conversar com LLMs locais ou na núvem do [Ollama](http
 
 #### Analise da Loterias Caixa ([repositório](https://github.com/JohnHammerSky/lottery-analysis))
 Busca jogos da loteria e exibe em um painel para auxiliar na tomada de decisão e criação de jogos
+
+</details>
+
