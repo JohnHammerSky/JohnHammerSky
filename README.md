@@ -47,7 +47,7 @@ Essas são algumas das tecnologias com as quais já trabalhei por um bom tempo a
 - **IA**: Prompts, GUFF, MCPs, fine-tuning
 - **Outros**: Web Scraping, Scripts de automação
 <details>
-<summary>🚀 Projetos</summary>
+<summary>🚀 Projetos</summary>  
 Projetos que desenvolvi e posso compartilhar publicamente, nenhum deles teve geração de códigos com LLMs.
 
 #### Interface com API do GitHub ([repositório](https://github.com/JohnHammerSky/github-search-interface))
